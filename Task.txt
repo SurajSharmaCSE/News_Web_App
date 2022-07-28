@@ -1,0 +1,5 @@
+1. Create Navbar
+2. News Component Add
+3. newsItem 
+4. Loading feacture
+5. API setup
