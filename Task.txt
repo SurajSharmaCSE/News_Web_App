@@ -1,5 +1,5 @@
-1. Create Navbar
-2. News Component Add
+1. Create Navbar - done
+2. News Component Ads - done
 3. newsItem 
 4. Loading feacture
 5. API setup
